@@ -16,7 +16,7 @@ header{
   justify-content: center;
 }
 
-/* ============CTA======== */
+/* ============HEADER SOCIALS======== */
 .header__socials{
   display: flex;
   flex-direction: column;
@@ -31,4 +31,22 @@ header{
   width: 1px;
   height: 2rem;
   background-color: var(--color-primary);
+}
+/* ===========ME======== */
+.me{
+  width: 22rem;
+  height: 30rem;
+  position: absolute;
+  left: calc(50% - 11rem);
+  margin-top: 4rem;
+  border: .3rem solid;
+  border-color: var(--color-primary);
+  border-radius: .3rem;
+  overflow: hidden;
+  padding: .5rem;
+  box-shadow: inset 5px 10px 30px var(--color-primary);
+}
+.me img{
+  border-radius: .5rem;
+  box-shadow: 5px 5px 10px rgba(178, 34, 34, 0.306);
 }
