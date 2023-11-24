@@ -34,7 +34,7 @@ function About() {
               <small>5+ completed Projects</small>
             </article>
           </div>
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Distinctio earum nulla excepturi itaque dignissimos maiores neque veniam officia sint necessitatibus animi temporibus, sit incidunt minima architecto perferendis corrupti accusamus deleniti.</p>
+          <p>Hello there! I'm Odilo, a highly motivated and detail-oriented Full Stack Developer with a strong foundation in both front-end and back-end technologies. My journey in the world of coding began with a curiosity for crafting interactive and dynamic web applications, and it has evolved into a genuine passion for creating seamless user experiences.</p>
           <a href="#contact" className='btn btn-primary'>Let's talk</a>
         </div>
       </div>
