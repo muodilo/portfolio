@@ -7,14 +7,17 @@ import Portfolio from './components/portfolio/Portfolio'
 import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
+import Service from './components/services/service'
 
 function App() {
   return (
     <>
       <Header />
+      <hr />
       <Nav />
       <About />
       <Experience />
+      <Service/>
       <Portfolio />
       <Testimonials />
       <Contact />
