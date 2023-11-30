@@ -4,7 +4,7 @@ import MailOutlineIcon from '@mui/icons-material/MailOutline';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import { RiMessengerLine } from 'react-icons/ri'
 import { useRef } from 'react';
-import emailjs from 'emailjs-com'
+import emailjs from '@emailjs/browser'
 
 function Contact() {
   const serviceId = process.env.REACT_APP_EMAILJS_SERVICE_ID;
